@@ -13,7 +13,7 @@
   --box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.05);
 }
 
-/* [data-theme="dark"] {
+[data-theme="dark"] {
   --text-color: #f0f0f0;
   --text-color-secondary: #b3c5cd;
 
@@ -22,7 +22,7 @@
   --background-color: #252329;
   --background-color-dark: #3c393f;
   --background-color-light: #120f13;
-} */
+}
 
 html,
 body {
@@ -40,7 +40,6 @@ a {
 
 * {
   box-sizing: border-box;
-  /* Check what these do */
   color: inherit;
   font: inherit;
 }
